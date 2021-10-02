@@ -13,3 +13,7 @@ Sua importância resume-se em duas capacidades:
 * prova-se que muitos problemas combinatórios envolvem tantas alternativas de solução quanto este problema, de modo que ele é uma espécie de "metro" com o qual medimos a complexidade computacional dos problemas combinatórios ocorrendo em engenharia e no trabalho científico.
 ## O código
 Calcula o tempo que o processador da máquina leva para fazer 10 milhões de adições, cada edição é o calculo de um caminho (ligação entre duas cidade).
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
